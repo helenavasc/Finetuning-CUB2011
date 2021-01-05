@@ -1,5 +1,5 @@
 # Finetuning-CUB2011
-For anyone who wants to fine-tune a pre-trained PyTorch Model on CUB Birds.
+For anyone who wants to either separate CUB Birds into its designated train-test split, fine-tune a pre-trained PyTorch Model, or both.
 Thank you to PyTorch for code used in `pretraining.py`
 
 Step 1:
