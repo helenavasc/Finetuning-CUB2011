@@ -1,3 +1,3 @@
 # Finetuning-CUB2011
 For anyone who wants to fine-tune a pre-trained PyTorch Model on CUB Birds.
-Thank you to PyTorch for some code used in `pretraining.py`
+Thank you to PyTorch for code used in `pretraining.py`
